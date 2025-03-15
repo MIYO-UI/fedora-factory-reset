@@ -1,0 +1,17 @@
+[Desktop Entry]
+Exec=kcmshell5 factory-reset
+Icon=view-refresh
+Type=Service
+X-KDE-ServiceTypes=KCModule
+X-KDE-Library=kcm_factory_reset
+X-KDE-ParentApp=kcontrol
+
+X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-Weight=100
+
+Name=Factory Reset
+Name[pl]=Przywracanie systemu
+Comment=Restore Fedora system to factory settings
+Comment[pl]=Przywróć system Fedora do stanu fabrycznego
+X-KDE-Keywords=reset,factory,system,reinstall
+X-KDE-Keywords[pl]=reset,przywracanie,system,reinstalacja,fabryczne

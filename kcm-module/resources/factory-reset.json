@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "admin@example.com",
+                "Name": "Administrator"
+            }
+        ],
+        "Category": "System",
+        "Description": "Przywróć system Fedora do stanu fabrycznego",
+        "Icon": "view-refresh",
+        "License": "GPL",
+        "Name": "Przywracanie systemu",
+        "ServiceTypes": [
+            "KCModule"
+        ],
+        "Version": "1.0",
+        "Website": "https://fedoraproject.org/"
+    },
+    "X-KDE-Keywords": "reset,factory,system,reinstall",
+    "X-KDE-ParentApp": "kcontrol",
+    "X-KDE-System-Settings-Parent-Category": "system-administration",
+    "X-KDE-Weight": 100
+}
